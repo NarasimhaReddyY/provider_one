@@ -1,10 +1,10 @@
 == README
 
-## Project Setup
+## Project Setup </br>
 
-### git clone https://github.com/NarasimhaReddyY/provider_one.git
-### cd provider_one
-### bundle install
-### rake db:migrate
-### rake db:seed
-### rails s
+### git clone https://github.com/NarasimhaReddyY/provider_one.git </br>
+### cd provider_one </br>
+### bundle install </br>
+### rake db:migrate </br>
+### rake db:seed </br>
+### rails s </br>
